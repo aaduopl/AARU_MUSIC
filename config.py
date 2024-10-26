@@ -39,8 +39,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/NOBITA_SUPPORT")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/NOBITA_ALL_BOT")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/PAGLA_STUPID_P")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/PAGLA_STUPID_P")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", True))
@@ -78,21 +78,21 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://envs.sh/WjQ.jpg"
+    "START_IMG_URL", "https://envs.sh/A1B.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://envs.sh/0-U.jpg"
+    "PING_IMG_URL", "https://envs.sh/A1B.jpg"
 )
-PLAYLIST_IMG_URL = "https://envs.sh/0-4.jpg"
-STATS_IMG_URL = "https://envs.sh/0-l.jpg"
-TELEGRAM_AUDIO_URL = "https://envs.sh/0-l.jpg"
-TELEGRAM_VIDEO_URL = "https://envs.sh/0-U.jpg"
-STREAM_IMG_URL = "https://envs.sh/0-U.jpg"
-SOUNCLOUD_IMG_URL = "https://envs.sh/0-4.jpg"
-YOUTUBE_IMG_URL = "https://envs.sh/0-4.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://envs.sh/0-4.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://envs.sh/0-4.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://envs.sh/0-4.jpg"
+PLAYLIST_IMG_URL = "https://envs.sh/A1B.jpg"
+STATS_IMG_URL = "https://envs.sh/A1B.jpg"
+TELEGRAM_AUDIO_URL = "https://envs.sh/A1B.jpg"
+TELEGRAM_VIDEO_URL = "https://envs.sh/A1B.jpg"
+STREAM_IMG_URL = "https://envs.sh/A1B.jpg"
+SOUNCLOUD_IMG_URL = "https://envs.sh/A1B.jpg"
+YOUTUBE_IMG_URL = "https://envs.sh/A1B.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://envs.sh/A1B.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://envs.sh/A1B.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://envs.sh/A1B.jpg"
 
 
 def time_to_seconds(time):
